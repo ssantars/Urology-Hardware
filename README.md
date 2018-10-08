@@ -26,4 +26,4 @@ Urology v2.0 BottomBoard Protoype
 ![alt text](https://github.com/ssantars/Urology-Hardware/blob/master/Urology%20v.2.0%20Board.jpg)
 
 Urology v2.6 Final Schematic
-![alt text](https://github.com/ssantars/Urology-Hardware/blob/master/Hardware%20v2.6/Urology_Bottom_Schematic_v2.6.pdf)
+![alt text](https://github.com/ssantars/Urology-Hardware/blob/master/Schematic%20v2.6.PNG)
