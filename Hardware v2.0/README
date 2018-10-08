@@ -1,1 +1,7 @@
 
+This is the version 1 for schematics and board layout. This version was unfortuately very buggy and required wet wiring to fix issues. 
+Issues that plagued this project was the entire battery management system needed lines cut and reappended due to mistakes and 
+misunderstandings when making schematics. In addition, to flashing code we had to fabricate a pull down for the TX line and reverse both the
+TX and RX lines on the FT232R in order to make ESP32 flashable. Finally, the size of the two boards made the case unable to close. 
+
+Great starting point, but more work and revisions will be made in Urology v2.6.
