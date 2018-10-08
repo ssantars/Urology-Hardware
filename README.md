@@ -22,8 +22,8 @@ Demo of Version 1
 https://www.youtube.com/watch?v=DfrdwtfXzMQ
 
 Urology v2.0 BottomBoard Protoype
-![alt text](https://github.com/ssantar/Urology-Circuit-Board/blob/master/Urology%20v.2.0%20Board.jpg)
+![alt text](https://github.com/ssantars/Urology-Hardware/blob/master/Urology%20v.2.0%20Board.jpg)
 
 Urology v2.6 Final Schematic
-![alt text](https://github.com/ssantar/Urology-Circuit-Board/blob/master/Urology_v2.6/BottomBoard_v2.6/Urology_Bottom_Schematic_v2.6-1.png)
+![alt text](https://github.com/ssantars/Urology-Hardware/blob/master/Hardware%20v2.6/Urology_Bottom_Schematic_v2.6.pdf)
 
